@@ -32,4 +32,4 @@ See [this figma page](https://www.figma.com/file/QSqLkRsYd3b9VhJ4CfWuqD/React-Na
 3. Send us an email with the link to the repository created and a link to download the app for review (you can use DropBox or Google Drive as storage for file sharing). Also, include any other important information that will be helpful in reviewing your submission.
 
 ## API
-Import the [Postman.json](https://developer-challenges.s3.eu-west-1.amazonaws.com/RN+Test+API.postman_collection.json) file to see how the API works
+You can check out the documentation of the API [here](https://documenter.getpostman.com/view/390981/UVkgyews)
