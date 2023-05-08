@@ -32,7 +32,7 @@ See [this figma page](https://www.figma.com/file/QSqLkRsYd3b9VhJ4CfWuqD/React-Na
 3. Send us an email with the link to the repository created and a link to download the app for review (you can use DropBox or Google Drive as storage for file sharing). Also, include any other important information that will be helpful in reviewing your submission.
 
 ## API
-You can check out the documentation of the API [here](https://documenter.getpostman.com/view/390981/UVkgyews)
+You can check out the documentation of the API [here](https://documenter.getpostman.com/view/2144637/2s93eYVXzd)
 
 ## Documentation
 Please document your thought process and identify which parts of the app you believe require documentation, such as the architecture, and any other relevant areas that should be documented, etc.
