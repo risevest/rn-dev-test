@@ -33,3 +33,6 @@ See [this figma page](https://www.figma.com/file/QSqLkRsYd3b9VhJ4CfWuqD/React-Na
 
 ## API
 You can check out the documentation of the API [here](https://documenter.getpostman.com/view/390981/UVkgyews)
+
+## Documentation
+Please document your thought process and identify which parts of the app you believe require documentation, such as the architecture, and any other relevant areas that should be documented, etc.
